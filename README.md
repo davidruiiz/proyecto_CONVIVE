@@ -1,4 +1,4 @@
-# El proyecto CONVIVE
+# El proyecto CONVIVE 🌎
 
 ## Objetivo principal
 
@@ -10,7 +10,7 @@ Un  objetivo específico  del  proyecto  es  que  el  tratamiento  de  datos  de
 
 El sistema a implementar consiste en una plataforma de análisis de varias fuentes de información existentes en el Ayuntamiento de Madrid. Para ello debe solucionar tres aspectos fundamentales:
 
-### a.
+##### a.
 La recogida de información de la ciudad. Este sistema incluye datos de dispositivos, de ciudadanos y de entidades.
 ### b. 
 La gestión de los datos recogidos. Debe ser lo suficientemente genérica para gestionar posibles incertidumbres en los datos propias de una ciudad: información incompleta, nuevas fuentes de información, nuevos campos en la misma información, etc.
